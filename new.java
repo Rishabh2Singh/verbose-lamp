@@ -1,3 +1,4 @@
 class new{
-
+	void run(){
+	}
 }
